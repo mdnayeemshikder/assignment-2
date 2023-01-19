@@ -32,4 +32,41 @@ nav ul li a{
 .nav-icon{
     font-size: 25px;
 }
+/* first section css style */
+.conteinar{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 50px;
+}
+
+.first-left{
+    width: 50%;
+}
+.top-heading-1{
+    font-size: 52px;
+    margin-bottom: 16px;
+}
+.top-paragraph{
+    font-weight: 600;
+}
+.top-ancor{
+    text-decoration: none;
+    background: #E02C6D;
+    border-radius: 41px;
+    color: #FFFFFF;
+    padding: 10px 25px;
+    font-weight: 700;
+}
+.bx-right-arrow-alt{
+    position: relative;
+    top: 6px;
+    font-size: 25px;
+}
+.img-2{
+    position: relative;
+    left: 10px;
+    bottom: 50%;
+}
+/* end section css style */
+
 
