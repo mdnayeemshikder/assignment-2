@@ -65,6 +65,7 @@ nav ul li a{
     position: relative;
     top: 6px;
     font-size: 25px;
+    color: white;
 }
 .img-2{
     position: relative;
@@ -93,3 +94,92 @@ nav ul li a{
 /* second section css style end */
 
 
+
+/* thard section css style start */
+.conteinar-3{
+    width: 1047px;
+    height: 1662px;
+    padding-left: 25em;
+}
+.conteinar-3 h1{
+    text-align: center;
+    font-size: 28px;
+    margin-top: 75px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+   
+}
+.all-camera{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 27px;
+    row-gap: 27px;
+}
+.camera{
+    width: 329px;
+    height: 476px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 40px rgb(0 0 0 / 15%);
+    background: #FFFFFF;
+    padding: 10px;
+    padding-right: 0px;
+}
+.camera-img{
+    padding-left: 9px;
+}
+.all-info{
+    padding-left: 9px;
+}
+.camera-info h2{
+    margin-bottom: 5px;
+    font-weight: 500;
+    margin-top: 12px;
+    font-size: 28px;
+}
+.bxs-star{
+    font-size: 12px;
+}
+.field{
+    color: #FB8200;
+}
+span{
+    font-size: 14px;
+    font-weight: 700;
+}
+ p{
+    margin-top: 10px;
+    color: #787885;
+    font-weight: 700;
+    font-size: 14px;
+}
+.ancor-end{
+    margin-left: 86em;
+}
+.ancor-end a,.lest{
+    text-decoration: none;
+    color: #E02C6D;
+    font-weight: 700;
+}
+/* thard section css style end */
+
+
+
+/* forth section css style starer */
+.conteinar-4{
+    margin-top: 130px;
+}
+.products-info{
+    width: 785px;
+    height: 224px;
+    padding-right: 14%;
+}
+.products-info h1{
+    font-size: 38px;
+}
+.forth-ancor{
+    text-decoration: none;
+    background: #E02C6D;
+    color: #FFFFFF;
+    padding: 10px 24px;
+    font-weight: 700;
+}
