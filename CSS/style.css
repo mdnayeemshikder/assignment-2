@@ -5,7 +5,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
-/* header css style */
+/* header css style  start*/
 header{
     margin-top: 90px;
 }
@@ -32,6 +32,10 @@ nav ul li a{
 .nav-icon{
     font-size: 25px;
 }
+/* header css style  end*/
+
+
+
 /* first section css style */
 .conteinar{
     display: flex;
@@ -68,5 +72,24 @@ nav ul li a{
     bottom: 50%;
 }
 /* end section css style */
+
+
+
+/* second section css style start */
+.conteinar-2{
+    
+    margin-top: -18%;
+    width: 1110px;
+    height: 110px;
+    border-top: 2px solid rgba(128, 128, 128, 0.119);
+    border-bottom: 2px solid rgba(128, 128, 128, 0.119);
+    margin-left: 20%;
+}
+.conteinar-2 img{
+    padding-left: 60px;
+    padding-top: 30px;
+    
+}
+/* second section css style end */
 
 
