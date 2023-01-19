@@ -183,3 +183,33 @@ span{
     padding: 10px 24px;
     font-weight: 700;
 }
+/* forth section css style end */
+
+
+/* footer css style start */
+footer{
+    background-color: #0A0826;
+}
+.footer-div{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+}
+.footer-div,h2{
+    text-align: center;
+}
+footer h2{
+    color: #FFFFFF;
+}
+footer p{
+    color: #D9DBE1;
+}
+.icon{
+    color: #FFFFFF;
+    padding-left: 10px;
+}
+.icon i{
+    padding-right: 16px;
+    font-size: 20px;
+}
+/* footer css style end */
